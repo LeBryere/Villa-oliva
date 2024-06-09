@@ -21,7 +21,7 @@
 ### Basic Usage
 
 
-The inspiration for the site comes from the Tokajer Wellness Panzió.
+The inspiration for the site comes from the Villa-oliva.
 
 ### Variables
 ```css
